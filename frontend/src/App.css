@@ -1,3 +1,4 @@
+
 .App {
   font-family: Arial, sans-serif;
   max-width: 500px;
@@ -10,7 +11,7 @@
 
 h1 {
   text-align: center;
-  color: #d4af37;
+  color: #000000;
 }
 
 form {
@@ -20,7 +21,7 @@ form {
 
 label {
   margin-bottom: 15px;
-  color: #6d5c00;
+  color: #000000;
 }
 
 input[type="number"],
@@ -43,15 +44,15 @@ button {
 }
 
 button:hover {
-  background-color: #ffe066;
+  background-color: #ffcc00;
 }
 
 .result {
   margin-top: 20px;
-  background-color: #fff5cc;
+  background-color: #4e4b40;
   padding: 15px;
   border-radius: 8px;
-  color: #6d5c00;
+  color: #000000;
 }
 
 .error {
